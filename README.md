@@ -101,7 +101,7 @@ This project is designed to be extensible:
 
 ## License
 
-Licensed under the MIT License. See `LICENSE` file for details.
+Licensed under the MIT License. See [LICENSE](LICENSE) file for details.
 
 ---
 
