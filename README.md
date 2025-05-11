@@ -39,8 +39,8 @@ The system is built to be extensible and structured for real-world applicationâ€
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/annoying-grammar-teacher.git
-cd annoying-grammar-teacher
+git clone https://github.com/TirupMehta/py-grammer-teacher.git
+cd py-grammer-teacher
 ```
 
 ### 2. Create a Virtual Environment (Recommended)
